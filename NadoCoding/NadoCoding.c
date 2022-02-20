@@ -97,13 +97,32 @@ int main(void)
 	*/
 
 	//printf("Hello World\n");
-	
+	/*
 	for (int i = 0; i < 10; i++) {
 		printf("%d\n", i + 1);
+	}*/
+
+/*
+	printf("¸îÃþ");
+
+	int num;
+
+	scanf_s("%d", &num);
+
+	for (int i = 1; i <=num;i++) {
+
+		for (int k = num-i; k >0 ; k--) {
+			printf(" ");
+		}
+
+		for (int j = 1; j <= i*2-1;j++) {
+			printf("*");
+		}
+		printf("\n");
+
 	}
 
-
-
+	*/
 
 
 	return 0;
