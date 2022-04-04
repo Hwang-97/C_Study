@@ -46,4 +46,17 @@ void main() {
 	printf("double 자료형 크기 : %d byte\n",sizeof(double));
 	printf("long double 자료형 크기 : %d byte\n",sizeof(long double));
 	
+/* 해당 프로그램이 끝나는 지점이다. */	
 }
+
+
+
+
+
+
+
+
+
+
+
+
